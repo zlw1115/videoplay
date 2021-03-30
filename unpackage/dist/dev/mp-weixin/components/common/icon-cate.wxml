@@ -1,0 +1,1 @@
+<view class="icon-cate"><image class="bg-light" style="width:70rpx;height:70rpx;" src="{{item.cover}}" mode></image><text class="text-muted font mt-1">{{item.name}}</text></view>

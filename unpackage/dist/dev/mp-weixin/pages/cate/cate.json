@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "card": "/components/common/card",
+    "icon-cate": "/components/common/icon-cate"
+  }
+}
